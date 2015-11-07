@@ -1,4 +1,4 @@
-local dir = "Interface\\AddOns\\LHCP_Full\\"
+local dir = "Interface\\AddOns\\LeeroyHillCatsPower\\Audio\\"
 
 if not LeeroyHillCatsPower_eastereggs
   or type(LeeroyHillCatsPower_eastereggs) ~= "table" then

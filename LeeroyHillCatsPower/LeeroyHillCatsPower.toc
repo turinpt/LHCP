@@ -6,3 +6,4 @@
 ## SavedVariablesPerCharacter: LHCP_ignoreMode
 ## SavedVariables: LHCP_globalIgnoreMode
 LeeroyHillCatsPower.xml
+LHCP_pkg.xml
