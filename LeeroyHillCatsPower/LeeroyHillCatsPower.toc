@@ -1,0 +1,8 @@
+## Interface: 11100
+## Title: LeeroyHillCatsPower! Extended (14/8/06)
+## Notes: /lhcp list
+## OptionalDeps:
+## Dependencies:
+## SavedVariablesPerCharacter: LHCP_ignoreMode
+## SavedVariables: LHCP_globalIgnoreMode
+LeeroyHillCatsPower.xml

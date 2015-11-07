@@ -1,0 +1,116 @@
+SOUND LIST
+
+/ateam		- Theme from The A Team
+/tiger		- "Eye of the Tiger" Survivor
+/naruto		- ???? (power rangers?)
+/imp		- "Imperial March" Star Wars EP5
+/mortal		- "Mortal Combat" The Crystal Method
+/pkmn2		- Battle Theme from Pokemon
+/pkmn		- "Pokemon Theme"
+/pwrr		- "Power Rangers Theme"
+/rff		- "Feuer Frei" Rammstein
+/rocky		- "Theme from Rocky"
+/victory	- victory song from Final Fantasy 7
+/ff		- Final Fantasy 1 OSD fight music 19
+/ffl		- Final Fantasy 1 OSD fight music 19
+
+/benny		- Theme from Benny Hill
+/power		- By the power of Greyskull, I have the power! (He-Man)
+/leeroy		- LEEROY JENKINS (Black Knight)
+/tcats		- Thunder, thunder, Thundercats HO! (Thundercats)
+
+/bj		- "Billy Jean" Michael Jackson
+/ctt		- "Can't Touch This" MC Hammer
+/dogs		- "Who Let the Dogs Out" Baha Men
+/ebn		- "Everybody Dance Now" C&C Music Factory
+/itn		- "In the Navy" Village People
+/matrix 	- Sneaker Pimps song from The Maxtrix
+/goninja	- "Ninja Rap" Vanilla Ice
+/venga		- "We Like to Party" Venga Boys
+/watchu		- "Whatchu Waitin For" Gwen Stefani
+/ymca		- "YMCA" Village People
+
+/bomb		- Bomb has been planted (Counterstrike)
+/fpsdoug	- It's like BOOM headshot... (Pure Pwnage)
+/glike		- Godlike (Unreal Tournament)
+/headshot	- Headshot (Unreal Tournament)
+/humiliation	- Humiliation (Unreal Tournament)
+/killingspree	- Killing spree (Unreal Tournament)
+/mkill		- Monster Kill (Unreal Tournament)
+/prepare	- Prepare Yourself (Unreal Tournament)
+/rampage	- Rampage (Unreal Tournament)
+/ultrakill	- Ultrakill (Unreal Tournament)
+/unstoppable	- Unstoppable (Unreal Tournament)
+/xkill		- Multikill (Unreal Tournament)
+
+/gp		- "Grand Prix" Mega NRG Man
+/hb		- "Heartbeat" Nathalie
+/lind		- "Love is in Danger" Priscilla
+/lls		- "Love <3 Shine" DDR 7th Mix
+/nof		- "Night of Fire" Niko
+/yatta		- "Yatta" Green Leaves
+
+/desu		- Desu (Mudah.swf "WRYYYY")
+/mudabu 	- Flurry of Punches (Mudah.swf "WRYYYY")
+/muda		- Mudada (Mudah.swf "WRYYYY")
+/toki		- Toki (Mudah.swf "WRYYYY")
+/wryy		- WRYYYYYYY! (Mudah.swf)
+/zaw		- Zawarudo (Mudah.swf "WRYYYY")
+
+/beast		NSFW - "Do you even know how beast I will f*** do?"
+/cloudsong	- You stole my CLOUDSONG!!!
+/dkp		NSFW - That's a f*** 50 DKP MINUS! (Dives <Wipe Club>)
+/getcha		NSFW - You ain't getting s*** (Getcha of Kil'Jaeden)
+/hitit		- Hit it like you mean it (Dives <Wipe Club>)
+/dots2		- Throw more dots... stop dots (Dives <Wipe Club>)
+/dots		- I don't see enough dots (Dives <Wipe Club>)
+/zug		- Zug is a Mummy (Zug <The Collective> of Kil'Jaeden cuz we wub our GM sew mooch)
+/atkp		NSFW - Two f*** attack power!!!
+/whelps		- Whelps! Left side... (Dives <Wipe Club>)
+
+/rush		- Trumpet playing "Revelie"
+/byh		- "I can be your healer, baby"
+/druid		- Why don't we have a druid tank Rag? (MC Raiders-Myndflame)
+/gover		- That's it man gameover... (Aliens)
+/kame		- Kamehameha (Dragonball Z)
+/mcraiders	- "MC Raiders" Myndflame
+/mreh		- MREH
+/murloc		- Murloc Sound! (Blizzard)
+/shadowform 	- Is shadowform ok? (MC Raiders-Myndflame)
+/tehpwnerer 	- So this one time this shaman and this rogue... (Pure Pwnage)
+/thrall		- "Club Thrall Remixed" Myndflame
+/thrall2	- "Thrall's Ball" Myndflame
+/tunak		- "Tunak Tunak Tun" Dahler Mendi
+/watchu		- "Whatchu Waitin For" Gwen Stefani
+/whine		- Stop whining (Arnold Schwartzenegger in Kindergarden Cop)
+/napoleon	- "Canned Heat" Jamiroquai (as heard in "Napoleon Dynamite")
+/repressed	- "Help help! I'm bein repressed!" Monty Python and the Holy Grail
+/sandlol	- "I've got a jar of diiiirt" Pirates of the Caribbean 2
+
+/barrel		- Do a barrel roll (Starfox SNES)
+/bde		- "Best Day Ever" Sponge Bob Squarepants
+/cotc		- "Duel of the Fates" Star Wars EP1
+/wrists		- "Crawling" Lincoln Park
+/pill		- I feel like I'm taking Crazy Pills (Kicking and Screaming)
+/fail		- Failure sound from The Price is Right
+/epic		- "Ghost Love Score" Nightwish
+/hassan		- (the "hassan" song, need credit)
+/katamari	- Theme from Katamari Damaci
+/kill		- from Kill Bill
+/leek		- Loituma Breaks (Leek Spin Song / depi.sk)
+/milks		- "Milkshake" Kaylis
+/moskau		- Moskau Moskau! (???)
+/nedm		- "We Interrupt This Program" Coburn (NEDM song)
+/nint64		- OMG NINTENDO SIXTY-FOUR!
+/noo		- NOOOOO!!! (Vader, Star Wars EP3)
+/rit9		- "Running in the 90s" Max Coveri
+/stole		- stole my bike (YTMND)
+/demon		- "Answers" Vigilante (The Mystery Song)
+/gog		- The goggles, they do nothing! (The Simpsons)
+/topgun		- "Ride into the Danger Zone" Kenny Loggins
+/tralala	- "Tra La La" Gunther
+/ual		- "Macaron Chacaron" El Mudo
+/whatislove	- "What is Love" Haddaway
+/wrong		- Wrong! (Kevin Spacey in Superman Returns)
+/pirate		- "You are a Pirate" Lazytown
+/youlose	- "You lose! Good day sir!" (Gene Wilder in Charlie and the Chocolate Factory)

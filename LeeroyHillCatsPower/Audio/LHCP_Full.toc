@@ -1,0 +1,4 @@
+## Interface: 11100
+## Title: LHCP! Full Pack 2/6/12
+## Dependencies: LeeroyHillCatsPower
+LHCP_pkg.xml
